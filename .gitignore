@@ -1,0 +1,8 @@
+replit.nix
+.replit
+main-debug
+*.o
+.ccls-cache
+main
+coffee
+tea
