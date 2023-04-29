@@ -4,7 +4,7 @@ using namespace std;
 
 // ------------------ JJexe -------------------------
 
-#define UNIT_COUNT 101
+#define UNIT_COUNT 71
 
 const string units[UNIT_COUNT] = {
 	"One",
